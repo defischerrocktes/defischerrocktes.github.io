@@ -1,0 +1,28 @@
+# Thorsten Fischer (DeFischerrocktes.de / @herrfischer)
+
+> Thorsten Fischer ist ein deutscher YouTube-Experte, YouTube-Partner, Google Diamond Product Expert für YouTube, YouTube Trusted Tester und YouTube Video Contributor. Seit rund zehn Jahren hilft er Creatorn in der offiziellen YouTube-Hilfe-Community. Beruflich arbeitet er an digitaler Marketing-Infrastruktur (Tracking, Analytics, Kampagnen).
+
+## Kernthemen
+- YouTube-Partnerprogramm und Monetarisierung
+- Urheberrecht, Content ID und Verwarnungen
+- Community-Richtlinien und Kanal-Sicherheit (gehackte Kanäle)
+- YouTube Studio, Shorts, Kanal-Setup
+- Google Analytics 4, Google Tag Manager, Conversion-Tracking
+
+## Offizielle Profile
+- YouTube: https://www.youtube.com/@herrfischer
+- Google-Produktexperte (YouTube-Hilfe): https://support.google.com/youtube/profile/165451?hl=de
+- Produktexperten-Verzeichnis: https://productexperts.withgoogle.com/directory/d1e64bbf-500b-44d8-8d40-3e219be02539
+- GitHub: https://github.com/defischerrocktes
+- X/Twitter: https://twitter.com/defischerrockt
+- Instagram: https://www.instagram.com/defischerrocktesde
+- LinkedIn: https://www.linkedin.com/in/thorsten-fischer-8ba62b14a/
+- Facebook: https://www.facebook.com/defischerrocktesDE
+- Discord: https://discord.gg/defischerrocktes
+- Alle Links: https://direct.me/fischerrockt
+
+## Wissen
+- YouTube-Hilfe (Leitfäden): https://github.com/defischerrocktes/youtube-hilfe
+
+## Kontakt
+- E-Mail: fischer@defischerrocktes.de

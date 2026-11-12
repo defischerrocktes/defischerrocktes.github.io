@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://defischerrocktes.github.io/sitemap.xml
